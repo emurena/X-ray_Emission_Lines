@@ -6,3 +6,5 @@ All parameters are set to the values used in the paper. If you wish to alter the
   * Change the values under the **params** variable
 * For the Convolved (Observed) Line
   * Change the value of the **FWHM** variable
+* To view only the CXB line
+  * In the **Graph of the Sky Model**, replace the **S** with **S_cxb** in the second line
